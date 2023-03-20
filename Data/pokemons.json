@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Numero": 1,
+    "Nome": "Dragão da Natureza",
+    "Descricao": "O Dragão da Natureza ama humanos, animais e todos os seres vivos - alguns deles para fins gastronômicos. Mesmo que ela não tenha comido um humano inteiro, um dedo ou dois foram perdidos...",
+    "Elementos": ["Natureza"] ,
+    "Raridade": "comum",
+    "Imagem": "\\img\\pokemons\\001.png"
+  },
+  {
+    "Numero": 2,
+    "Nome": "Ivysaur",
+    "Descricao": "Há um broto nas costas desse Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma flor grande em breve.",
+    "Especie": "Seed",
+    "Tipo": ["Planta", "Venenoso"],
+    "Altura": 1,
+    "Peso": 13,
+    "Imagem": "\\img\\pokemons\\002.png"
+  }
+]
