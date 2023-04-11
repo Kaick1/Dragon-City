@@ -1,74 +1,74 @@
 ﻿[
   {
-    "Nome": "Aço",
-    "Cor": "#aab"
-  },
-  {
-    "Nome": "Água",
-    "Cor": "#39f"
-  },
-  {
-    "Nome": "Dragão",
-    "Cor": "#76e"
-  },
-  {
-    "Nome": "Elétrico",
-    "Cor": "#fc3"
-  },
-  {
-    "Nome": "Fada",
-    "Cor": "#e9e"
-  },
-  {
-    "Nome": "Fantasma",
-    "Cor": "#66b"
+    "Nome": "Terra",
+    "Cor": "#8d4"
   },
   {
     "Nome": "Fogo",
     "Cor": "#f42"
   },
   {
-    "Nome": "Gelo",
-    "Cor": "#6cf"
-  },
-  {
-    "Nome": "Inseto",
-    "Cor": "#ab6"
-  },
-  {
-    "Nome": "Lutador",
-    "Cor": "#b54"
-  },
-  {
-    "Nome": "Normal",
-    "Cor": "#aa9"
-  },
-  {
-    "Nome": "Pedra",
-    "Cor": "#ba6"
+    "Nome": "Água",
+    "Cor": "#39f"
   },
   {
     "Nome": "Planta",
     "Cor": "#7c5"
   },
   {
-    "Nome": "Psíquico",
-    "Cor": "#f59"
+    "Nome": "Elétrico",
+    "Cor": "#fc3"
   },
   {
-    "Nome": "Sombrio",
+    "Nome": "Gelo",
+    "Cor": "#6cf"
+  },
+  {
+    "Nome": "Metálico",
+    "Cor": "#aab"
+  },
+  {
+    "Nome": "Tenebroso",
     "Cor": "#754"
   },
   {
-    "Nome": "Terrestre",
-    "Cor": "#db5"
+    "Nome": "Lendário",
+    "Cor": "#c4d"
   },
   {
-    "Nome": "Venenoso",
-    "Cor": "#a59"
+    "Nome": "Puro",
+    "Cor": "#fff"
   },
   {
-    "Nome": "Voador",
-    "Cor": "#89f"
+    "Nome": "Chama Pura",
+    "Cor": "#f9a"
+  },
+  {
+    "Nome": "Mar Puro",
+    "Cor": "#2bf"
+  },
+  {
+    "Nome": "Natureza Pura",
+    "Cor": "#9d9"
+  },
+  {
+    "Nome": "Elétrico Puro",
+    "Cor": "#ff0"
+  },
+  {
+    "Nome": "Gelo Puro",
+    "Cor": "#ccf"
+  },
+  {
+    "Nome": "Metal Puro",
+    "Cor": "#ccc"
+  },
+  {
+    "Nome": "Tenebroso Puro",
+    "Cor": "#a99"
+  },
+  {
+    "Nome": "Lendário Puro",
+    "Cor": "#f0f"
   }
 ]
