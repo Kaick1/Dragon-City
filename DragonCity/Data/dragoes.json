@@ -9,55 +9,76 @@
   
   {
     "Numero": 2,
-    "Nome": "Dragão Fogo",
-    "Descricao": "O Dragão Fogo é um dragão poderoso e agressivo. Ele é capaz de cuspir fogo em seus adversários e causar graves queimaduras.",
+    "Nome": "Dragão Encantado",
+    "Descricao": "Apesar de sua personalidade gentil, o Dragão Cantinho Encantado é um poderoso dragão mágico, capaz de usar feitiços para ajudar seus amigos em batalhas. Ele também é conhecido por ter uma força surpreendente quando necessário, tornando-o um companheiro confiável para qualquer equipe de batalha.",
     "Dano": "Fogo",
-    "Tipo": [ "Fogo", "Agressivo" ] ,
-    "Imagem": "\\img\\dragões\\002.png"
+    "Tipo": [ "Fogo", "Água", "Terra", "Luz"],
+    "Imagem": "\\img\\dragoes\\CantinhoEncantado.png"
   },
   
   {
     "Numero": 3,
-    "Nome": "Dragão Água",
-    "Descricao": "O Dragão Água é um dragão ágil e rápido. Ele é capaz de nadar em alta velocidade e criar poderosos jatos d'água para atacar seus adversários.",
-    "Dano": "Água",
-    "Tipo": [ "Água", "Ágil" ] ,
-    "Imagem": "\\img\\dragões\\003.png"
+    "Nome": "Dragão Apocalipse",
+    "Descricao": "O Dragão Apocalipse é uma criatura lendária e temida por sua incrível força e poder destrutivo. Seus olhos vermelhos brilhantes emanam uma aura de fogo e sua pele escamosa é tão resistente quanto o aço. Ele é capaz de conjurar tempestades de fogo e chamas que podem destruir tudo em seu caminho.",
+    "Dano": "Fogo",
+    "Tipo": ["Fogo", "Terra", "Metal"],
+    "Imagem": "\\img\\dragoes\\2.png"
   },
+
   
   {
     "Numero": 4,
-    "Nome": "Dragão Vento",
-    "Descricao": "O Dragão Vento é um dragão astuto e inteligente. Ele é capaz de criar poderosas rajadas de vento para derrubar seus adversários e se movimentar rapidamente pelo campo de batalha.",
-    "Dano": "Vento",
-    "Tipo": [ "Vento", "Astuto" ] ,
-    "Imagem": "\\img\\dragões\\004.png"
+    "Nome": "Dragão da Amizade",
+    "Descricao": "O Dragão da Amizade é conhecido por sua natureza amigável e sua habilidade de fortalecer a união entre seus aliados. Ele é capaz de emitir um brilho reconfortante que eleva o espírito dos seus amigos e ajuda a curar suas feridas. Em batalha, ele é uma força poderosa devido à sua habilidade de unir seus aliados em torno de um objetivo comum.",
+    "Dano": "Luz",
+    "Tipo": ["Luz", "Natureza"],
+    "Imagem": "\\img\\dragoes\\DragãoDaAmizade.png"
   },
-  
+
   {
     "Numero": 5,
-    "Nome": "Dragão Elétrico",
-    "Descricao": "O Dragão Elétrico é um dragão veloz e energético. Ele é capaz de criar poderosos raios elétricos para atacar seus adversários e causar paralisia temporária.",
-    "Dano": "Elétrico",
-    "Tipo": [ "Elétrico", "Energético" ] ,
-    "Imagem": "\\img\\dragões\\005.png"
+    "Nome": "Dragão Guardião",
+    "Descricao": "O Dragão Guardião é um dragão antigo e sábio, encarregado de proteger conhecimentos e segredos valiosos. Ele é capaz de canalizar poderosas energias mágicas e lançar feitiços para deter seus inimigos. Sua sabedoria e sua determinação o tornam um aliado confiável e respeitado.",
+    "Dano": "Terra",
+    "Tipo": ["Terra", "Sombrio"],
+    "Imagem": "\\img\\dragoes\\DragãoGuaredianjo.png"
   },
+  
   
   {
     "Numero": 6,
-    "Nome": "Dragão Terra e Fogo",
-    "Descricao": "O Dragão Terra e Fogo é um dragão raro e poderoso. Ele é capaz de causar terremotos e deslizamentos de terra, além de cuspir fogo em seus adversários.",
-    "Dano": "Terra e Fogo",
-    "Tipo": [ "Terra", "Fogo", "Poderoso" ] ,
-    "Imagem": "\\img\\dragões\\006.png"
+    "Nome": "Dragão Primordial",
+    "Descricao": "O Dragão Primordial é uma criatura ancestral que governa sobre as forças primordiais da natureza. Ele é capaz de controlar o vento, o fogo, a água e a terra com facilidade, e sua presença é suficiente para fazer as montanhas tremerem e as tempestades se formarem. Sua força e sua sabedoria são incomparáveis, e ele é respeitado e temido por todos que o conhecem.",
+    "Dano": "Terra",
+    "Tipo": ["Terra", "Fogo", "Água", "Vento"],
+    "Imagem": "\\img\\dragoes\\DragãoPrimordial.png"
   },
+  
   
   {
     "Numero": 7,
-    "Nome": "Dragão Luz",
-    "Descricao": "O Dragão Luz é um dragão celestial e poderoso. Ele é capaz de criar poderosos raios de luz para cegar seus adversários e causar danos massivos.",
+    "Nome": "Dragão Sabedoria",
+    "Descricao": "O Dragão Sabedoria é conhecido por sua enorme inteligência e habilidades de estratégia. Ele é capaz de usar sua sabedoria para superar inimigos muito mais fortes, e é um líder natural em qualquer equipe de batalha. Sua mente brilhante é acompanhada por uma força física impressionante, o que o torna um adversário formidável em batalhas. Embora ele prefira resolver conflitos de forma pacífica, ele não hesitará em lutar se necessário para proteger seus amigos e aliados.",
+    "Dano": "Terra",
+    "Tipo": ["Terra", "Luz"],
+    "Imagem": "\\img\\dragoes\\DragãoSabedoria.png"
+  },
+
+  {
+    "Numero": 8,
+    "Nome": "Dragão Sagrado",
+    "Descricao": "O Dragão Sagrado é uma criatura divina que exala uma aura de santidade e poder. Ele é capaz de canalizar a energia sagrada para curar feridas e purificar a escuridão. Sua presença é capaz de acalmar até mesmo os mais selvagens dos dragões, e seu poder é temido pelos inimigos da luz. Embora sua natureza pacífica o leve a evitar conflitos sempre que possível, ele não hesitará em lutar se necessário para proteger a justiça e a bondade.",
     "Dano": "Luz",
-    "Tipo": [ "Luz", "Celestial", "Poderoso" ] ,
-    "Imagem": "\\img\\dragões\\007.png"
+    "Tipo": ["Luz", "Natureza"],"\\img\\dragoes\\DragãoSagrado.png"
+    "Imagem": 
+  },
+  {
+    "Numero": 9,
+    "Nome": "Dragão Surpreendente",
+    "Descricao": "O Dragão Surpreendente é uma criatura fascinante que pode mudar de forma e surpreender seus inimigos. Ele é um mestre da ilusão, capaz de criar imagens que confundem e enganam seus oponentes. Sua aparência pode mudar a qualquer momento, tornando-o uma criatura imprevisível e difícil de enfrentar. Apesar de sua personalidade astuta, ele é leal e protetor com seus amigos e aliados. Seu poder é uma surpresa para todos, inclusive para seus adversários.",
+    "Dano": "Terra",
+    "Tipo": ["Terra", "Chamas"],
+    "Imagem": "\\img\\dragoes\\DragãoSurpreendente.png"
   }
 ]
+  

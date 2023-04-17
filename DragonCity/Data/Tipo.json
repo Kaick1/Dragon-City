@@ -1,15 +1,39 @@
 ﻿[
   {
     "Nome": "Terra",
-    "Cor": "#8d4"
+    "Cor": "#ad6d4d"
   },
   {
     "Nome": "Fogo",
-    "Cor": "#f42"
+    "Cor": "#eb2317"
+  },
+  {
+    "Nome": "Chamas",
+    "Cor": "#f9a"
+  },
+  {
+    "Nome": "Metal",
+    "Cor": "#eb2317"
+  },
+  {
+    "Nome": "Luz",
+    "Cor": "#b8cdeb"
+  },
+  {
+    "Nome": "Vento",
+    "Cor": "#b8cdeb"
+  },
+  {
+    "Nome": "Sombrio",
+    "Cor": "#000"
+  },
+  {
+    "Nome": "Natureza",
+    "Cor": "#3cd328"
   },
   {
     "Nome": "Água",
-    "Cor": "#39f"
+    "Cor": "#0edef0"
   },
   {
     "Nome": "Planta",
@@ -38,37 +62,5 @@
   {
     "Nome": "Puro",
     "Cor": "#fff"
-  },
-  {
-    "Nome": "Chama Pura",
-    "Cor": "#f9a"
-  },
-  {
-    "Nome": "Mar Puro",
-    "Cor": "#2bf"
-  },
-  {
-    "Nome": "Natureza Pura",
-    "Cor": "#9d9"
-  },
-  {
-    "Nome": "Elétrico Puro",
-    "Cor": "#ff0"
-  },
-  {
-    "Nome": "Gelo Puro",
-    "Cor": "#ccf"
-  },
-  {
-    "Nome": "Metal Puro",
-    "Cor": "#ccc"
-  },
-  {
-    "Nome": "Tenebroso Puro",
-    "Cor": "#a99"
-  },
-  {
-    "Nome": "Lendário Puro",
-    "Cor": "#f0f"
   }
 ]

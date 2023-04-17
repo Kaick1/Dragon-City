@@ -4,6 +4,7 @@ namespace DragonCity.Models
     {
         //Atributos
         public string Nome {get; set; }
+        public string Cor {get; set; }
         public string Elementos {get; set; }
     }
 }

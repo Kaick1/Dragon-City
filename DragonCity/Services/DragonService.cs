@@ -63,7 +63,7 @@ namespace DragonCity.Services
         }
         private void PopularSessao()
         {
-            if (string.IsNullOrEmpty(_session.HttpContext.Session.GetString("Rotas")))
+            if (string.IsNullOrEmpty(_session.HttpContext.Session.GetString("Tipos")))
             {
                 _session.HttpContext.Session
                     .SetString("dragao", LerArquivo(dragoesFile));
