@@ -3,7 +3,7 @@
     "Numero": 1,
     "Nome": "Dragão Terra",
     "Descricao": "O Dragão Terra é um dragão resistente e forte. Ele é capaz de causar terremotos e deslizamentos de terra em seus adversários.",
-    "Dano": "Terra",
+    "Raridade": "Terra",
     "Tipo": [ "Terra", "Forte" ] 
   },
   
@@ -11,7 +11,7 @@
     "Numero": 2,
     "Nome": "Dragão Encantado",
     "Descricao": "Apesar de sua personalidade gentil, o Dragão Cantinho Encantado é um poderoso dragão mágico, capaz de usar feitiços para ajudar seus amigos em batalhas. Ele também é conhecido por ter uma força surpreendente quando necessário, tornando-o um companheiro confiável para qualquer equipe de batalha.",
-    "Dano": "Fogo",
+    "Raridade": "Fogo",
     "Tipo": [ "Fogo", "Água", "Terra", "Luz"],
     "Imagem": "\\img\\dragoes\\CantinhoEncantado.png"
   },
@@ -20,7 +20,7 @@
     "Numero": 3,
     "Nome": "Dragão Apocalipse",
     "Descricao": "O Dragão Apocalipse é uma criatura lendária e temida por sua incrível força e poder destrutivo. Seus olhos vermelhos brilhantes emanam uma aura de fogo e sua pele escamosa é tão resistente quanto o aço. Ele é capaz de conjurar tempestades de fogo e chamas que podem destruir tudo em seu caminho.",
-    "Dano": "Fogo",
+    "Raridade": "Fogo",
     "Tipo": ["Fogo", "Terra", "Metal"],
     "Imagem": "\\img\\dragoes\\2.png"
   },
@@ -30,7 +30,7 @@
     "Numero": 4,
     "Nome": "Dragão da Amizade",
     "Descricao": "O Dragão da Amizade é conhecido por sua natureza amigável e sua habilidade de fortalecer a união entre seus aliados. Ele é capaz de emitir um brilho reconfortante que eleva o espírito dos seus amigos e ajuda a curar suas feridas. Em batalha, ele é uma força poderosa devido à sua habilidade de unir seus aliados em torno de um objetivo comum.",
-    "Dano": "Luz",
+    "Raridade": "Luz",
     "Tipo": ["Luz", "Natureza"],
     "Imagem": "\\img\\dragoes\\DragãoDaAmizade.png"
   },
@@ -39,7 +39,7 @@
     "Numero": 5,
     "Nome": "Dragão Guardião",
     "Descricao": "O Dragão Guardião é um dragão antigo e sábio, encarregado de proteger conhecimentos e segredos valiosos. Ele é capaz de canalizar poderosas energias mágicas e lançar feitiços para deter seus inimigos. Sua sabedoria e sua determinação o tornam um aliado confiável e respeitado.",
-    "Dano": "Terra",
+    "Raridade": "Terra",
     "Tipo": ["Terra", "Sombrio"],
     "Imagem": "\\img\\dragoes\\DragãoGuaredianjo.png"
   },
@@ -47,9 +47,9 @@
   
   {
     "Numero": 6,
-    "Nome": "Dragão Primordial",
-    "Descricao": "O Dragão Primordial é uma criatura ancestral que governa sobre as forças primordiais da natureza. Ele é capaz de controlar o vento, o fogo, a água e a terra com facilidade, e sua presença é suficiente para fazer as montanhas tremerem e as tempestades se formarem. Sua força e sua sabedoria são incomparáveis, e ele é respeitado e temido por todos que o conhecem.",
-    "Dano": "Terra",
+    "Nome": "Dragão Do Destino",
+    "Descricao": "O Dragão do Destino é uma criatura ancestral que governa sobre as forças primordiais da natureza. Ele é capaz de controlar o vento, o fogo, a água e a terra com facilidade, e sua presença é suficiente para fazer as montanhas tremerem e as tempestades se formarem. Sua força e sua sabedoria são incomparáveis, e ele é respeitado e temido por todos que o conhecem.",
+    "Raridade": "Terra",
     "Tipo": ["Terra", "Fogo", "Água", "Vento"],
     "Imagem": "\\img\\dragoes\\DragãoPrimordial.png"
   },
@@ -59,7 +59,7 @@
     "Numero": 7,
     "Nome": "Dragão Sabedoria",
     "Descricao": "O Dragão Sabedoria é conhecido por sua enorme inteligência e habilidades de estratégia. Ele é capaz de usar sua sabedoria para superar inimigos muito mais fortes, e é um líder natural em qualquer equipe de batalha. Sua mente brilhante é acompanhada por uma força física impressionante, o que o torna um adversário formidável em batalhas. Embora ele prefira resolver conflitos de forma pacífica, ele não hesitará em lutar se necessário para proteger seus amigos e aliados.",
-    "Dano": "Terra",
+    "Raridade": "Terra",
     "Tipo": ["Terra", "Luz"],
     "Imagem": "\\img\\dragoes\\DragãoSabedoria.png"
   },
@@ -68,17 +68,71 @@
     "Numero": 8,
     "Nome": "Dragão Sagrado",
     "Descricao": "O Dragão Sagrado é uma criatura divina que exala uma aura de santidade e poder. Ele é capaz de canalizar a energia sagrada para curar feridas e purificar a escuridão. Sua presença é capaz de acalmar até mesmo os mais selvagens dos dragões, e seu poder é temido pelos inimigos da luz. Embora sua natureza pacífica o leve a evitar conflitos sempre que possível, ele não hesitará em lutar se necessário para proteger a justiça e a bondade.",
-    "Dano": "Luz",
-    "Tipo": ["Luz", "Natureza"],"\\img\\dragoes\\DragãoSagrado.png"
-    "Imagem": 
+    "Raridade": "Luz",
+    "Tipo": ["Luz", "Natureza"],
+    "Imagem": "\\img\\dragoes\\DragãoSagrado.png"
   },
+
   {
     "Numero": 9,
     "Nome": "Dragão Surpreendente",
     "Descricao": "O Dragão Surpreendente é uma criatura fascinante que pode mudar de forma e surpreender seus inimigos. Ele é um mestre da ilusão, capaz de criar imagens que confundem e enganam seus oponentes. Sua aparência pode mudar a qualquer momento, tornando-o uma criatura imprevisível e difícil de enfrentar. Apesar de sua personalidade astuta, ele é leal e protetor com seus amigos e aliados. Seu poder é uma surpresa para todos, inclusive para seus adversários.",
-    "Dano": "Terra",
+    "Raridade": "Terra",
     "Tipo": ["Terra", "Chamas"],
     "Imagem": "\\img\\dragoes\\DragãoSurpreendente.png"
+  },
+  {
+    "Numero": 10,
+    "Nome": "Dragão Do Legado",
+    "Descricao": "O Dragão Do Legado é uma criatura poderosa e misteriosa, considerada por muitos como o dragão mais forte de todos. Sua presença é capaz de inspirar medo e respeito em seus inimigos, e sua força e habilidade de combate são lendárias. Ele é um dragão raro e dificilmente visto, mas aqueles que o encontram nunca esquecem o encontro. Sua escala brilhante e chifres afiados são símbolos de sua majestade e poder. O Dragão Lendário é verdadeiramente um tesouro para qualquer treinador de dragões que seja capaz de encontrá-lo e conquistá-lo.",
+    "Raridade": "Épico",
+    "Tipo": ["Lendário"],
+    "Imagem": "\\img\\dragoes\\Lendario.png"
+  },
+
+  {
+    "Numero": 11,
+    "Nome": "Dragão Nirvana",
+    "Descricao": "O Dragão Nirvana é um dragão divino que é capaz de trazer paz e tranquilidade aos seus aliados. Ele é um ser espiritual e pacífico, que prefere a meditação e a contemplação ao combate. Sua sabedoria é lendária, e ele é capaz de inspirar e orientar aqueles que estão ao seu redor. Sua aparência é simples e elegante, com asas suaves e um brilho dourado em suas escamas. O Dragão Nirvana é um companheiro valioso para qualquer treinador que busca equilíbrio e harmonia em sua equipe.",
+    "Raridade": "Luz",
+    "Tipo": ["Luz", "Natureza"],
+    "Imagem": "\\img\\dragoes\\Nirvana.png"
+  },
+
+  {
+    "Numero": 12,
+    "Nome": "Dragão Ouro Puro",
+    "Descricao": "O Dragão Ouro Puro é um dragão lendário de uma beleza inigualável, suas escamas douradas brilham com uma intensidade tão forte que chega a ofuscar a vista de quem o encara. Esse dragão é uma verdadeira fortaleza, sua aparência majestosa inspira respeito e admiração. Apesar de sua imponência, ele é um ser gentil e amoroso, que valoriza a lealdade e a amizade acima de tudo. Sua força e resistência são surpreendentes, e ele é capaz de se adaptar a qualquer ambiente. O Dragão Ouro Puro é um companheiro valioso para qualquer treinador que busca um aliado forte, resistente e leal.",
+    "Dano": "Luz",
+    "Tipo": ["Luz", "Terra"],
+    "Imagem": "\\img\\dragoes\\OuroPuro.png"
+  },
+  {
+    "Numero": 13,
+    "Nome": "Dragão Ozônio",
+    "Descricao": "O Dragão Ozônio é um dragão elemental raro que vive nas camadas mais altas da atmosfera. Ele é conhecido por suas asas majestosas e pelo seu poderoso sopro de ar fresco, que pode ser sentido a quilômetros de distância. Esse dragão é extremamente ágil e veloz, capaz de se mover com rapidez e destreza em meio às nuvens e aos ventos. Ele é um ser tranquilo e pacífico, que prefere evitar conflitos sempre que possível. Quando entra em batalha, no entanto, sua agilidade e seus poderosos ataques de ar são capazes de derrubar até mesmo os adversários mais fortes. O Dragão Ozônio é um companheiro valioso para qualquer treinador que busca um aliado rápido, poderoso e tranquilo.",
+    "Raridade": "Vento",
+    "Tipo": ["Vento", "Terra"],
+    "Imagem": "\\img\\dragoes\\Ozonio.png"
+  },
+
+  {
+    "Numero": 13,
+    "Nome": "Dragão Poderoso",
+    "Descricao": "O Dragão Poderoso é um dos mais temidos dragões do mundo. Sua aparência intimidadora e seus poderosos ataques de fogo são capazes de causar medo em qualquer adversário. Ele é um ser solitário e reservado, que prefere viver em lugares distantes e inóspitos. Apesar de sua personalidade difícil, ele é extremamente leal àqueles que conseguem ganhar sua confiança. Seu sopro de fogo é capaz de causar grandes estragos e seus ataques físicos são igualmente poderosos. O Dragão Poderoso é um adversário formidável em batalha, capaz de derrubar até mesmo os dragões mais fortes. Ele é um aliado valioso para qualquer treinador que busca um companheiro forte e leal.",
+    "Raridade": "Fogo",
+    "Tipo": ["Fogo"],
+    "Imagem": "\\img\\dragoes\\Poderoso.png"
+  },
+
+  {
+    "Numero": 14,
+    "Nome": "Dragão Senhor da Guerra",
+    "Descricao": "O Dragão Senhor da Guerra é conhecido como um dos mais temidos e respeitados líderes de batalha de todos os tempos. Ele é um guerreiro habilidoso e estrategista brilhante, capaz de liderar exércitos inteiros para a vitória. Sua armadura dourada é tão resistente quanto sua coragem, e sua espada mágica é capaz de cortar até mesmo o aço mais duro. Seu rugido é capaz de inspirar seus aliados e aterrorizar seus inimigos. O Dragão Senhor da Guerra é um aliado valioso para qualquer treinador que busca liderança e coragem em sua equipe.",
+    "Raridade": "Metal",
+    "Tipo": ["Metal", "Terra"],
+    "Imagem": "\\img\\dragoes\\SenhorDaGuerra.png"
   }
+
 ]
   

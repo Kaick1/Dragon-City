@@ -3,8 +3,9 @@
 }
 
 body {
-  background-color: #B0C4DE;
+  background-color: #d6d6d6;
 }
+
 
 a {
   color: black;
@@ -127,7 +128,7 @@ margin-left: 4px;
 }
 
 .button:active {
-  box-shadow: 0 5px #27408B;
+  box-shadow: 0 5px #919dc2;
   transform: translateY(3px);
 }
 
